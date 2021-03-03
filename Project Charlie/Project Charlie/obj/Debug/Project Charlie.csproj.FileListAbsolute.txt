@@ -1,0 +1,11 @@
+C:\Users\campb\Documents\Level 5 IS Training\Project Charlie\Project Charlie\bin\Debug\Project Charlie.exe.config
+C:\Users\campb\Documents\Level 5 IS Training\Project Charlie\Project Charlie\bin\Debug\Project Charlie.exe
+C:\Users\campb\Documents\Level 5 IS Training\Project Charlie\Project Charlie\bin\Debug\Project Charlie.pdb
+C:\Users\campb\Documents\Level 5 IS Training\Project Charlie\Project Charlie\obj\Debug\Project Charlie.csprojAssemblyReference.cache
+C:\Users\campb\Documents\Level 5 IS Training\Project Charlie\Project Charlie\obj\Debug\Project_Charlie.Form1.resources
+C:\Users\campb\Documents\Level 5 IS Training\Project Charlie\Project Charlie\obj\Debug\Project_Charlie.Properties.Resources.resources
+C:\Users\campb\Documents\Level 5 IS Training\Project Charlie\Project Charlie\obj\Debug\Project Charlie.csproj.GenerateResource.cache
+C:\Users\campb\Documents\Level 5 IS Training\Project Charlie\Project Charlie\obj\Debug\Project Charlie.csproj.CoreCompileInputs.cache
+C:\Users\campb\Documents\Level 5 IS Training\Project Charlie\Project Charlie\obj\Debug\Project Charlie.exe
+C:\Users\campb\Documents\Level 5 IS Training\Project Charlie\Project Charlie\obj\Debug\Project Charlie.pdb
+C:\Users\campb\Documents\Level 5 IS Training\Project Charlie\Project Charlie\obj\Debug\Project_Charlie.Form2.resources
